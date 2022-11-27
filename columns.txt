@@ -1,0 +1,26 @@
+# About the Data
+
+`data/TT-2018-H1-REDACTED-excluding-Postcodes.csv`: The particpant-level survey responses.
+`data/Technology-Tracker-H1-2018-data-tables.csv`: Summary statistics and column information
+`data/Technology-Tracker-H1-2018-subset-data-tables.csv`: Summary statistics for subset of ages 65+, DE, EMG, disability
+  (EMG = Ethnic Minority Group, DE = lowest social group)
+
+
+Ofcom = The Office of Communications; the government-approved regulatory and competition authority for the broadcasting, telecommunications and postal industries of the United Kingdom. 
+
+
+All time: https://www.data.gov.uk/dataset/eb673e35-1a59-47d3-b5f1-914a67d85baf/technology-tracker
+
+2018 on Kaggle: https://www.kaggle.com/datasets/guillerk92/technology-tracker-uk-2018?resource=download
+(Bad) starter code: https://www.kaggle.com/code/kerneler/starter-technology-tracker-uk-2018-051085bd-b
+Had to delete one row from the data bc it was throwing errors
+
+
+1075 Columns
+  String 1059
+  Integer 11
+  Boolean 4
+  Other 2
+
+
+
