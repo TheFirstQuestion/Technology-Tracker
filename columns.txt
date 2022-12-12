@@ -22,6 +22,3 @@ Had to delete one row from the data bc it was throwing errors
   Boolean 4
   Other 2
 
-
-https://www.machinelearningnuggets.com/logistic-regression/
-

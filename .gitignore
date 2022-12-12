@@ -4,7 +4,7 @@
 # Delete irrelevant entries as appropriate
 ####################################################################
 
-data/.*
+*.png
 
 ########################### Node ###########################
 # Optional npm cache directory
